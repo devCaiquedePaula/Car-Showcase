@@ -22,7 +22,7 @@ Você pode acessar o site do projeto já implantado e desfrutar de todas as suas
 
 ## Redes Sociais
 Fique por dentro das últimas novidades e atualizações do nosso projeto seguindo nossas redes sociais:
-- [Instagram]([https://instagram.com/seu_instagram](https://www.instagram.com/devsemclasse?igsh=ZG5meGNpaWgwYW91))
-- [LinkedIn]([https://linkedin.com/in/seu_linkedin](https://www.linkedin.com/in/caique-de-paula-nascimento-643252238/?originalSubdomain=br))
+- ![Instagram]([https://instagram.com/seu_instagram](https://www.instagram.com/devsemclasse?igsh=ZG5meGNpaWgwYW91))
+- ![LinkedIn]([https://linkedin.com/in/seu_linkedin](https://www.linkedin.com/in/caique-de-paula-nascimento-643252238/?originalSubdomain=br))
 
 Junte-se a nós nesta jornada emocionante pelo mundo dos carros e descubra a combinação perfeita para a sua próxima aventura nas estradas! 🛣️✨
