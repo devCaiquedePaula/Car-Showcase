@@ -13,9 +13,9 @@ Para tornar essa experiência possível, utilizei as seguintes tecnologias de po
 ## Fotos do Projeto
 Confira algumas capturas de tela do projeto:
 
-1. ![Página inicial](link_para_a_imagem)
-2. ![Pesquisa de carros](link_para_a_imagem)
-3. ![Detalhes do carro](link_para_a_imagem)
+1. Página inicial <br><br> ![image](https://github.com/devCaiquedePaula/Car-Showcase/assets/104093663/c997d364-3442-4c8d-bee4-a55605a22f7b)
+2. Pesquisa de carros  <br><br> ![image](https://github.com/devCaiquedePaula/Car-Showcase/assets/104093663/a74fb800-b0bb-4d6c-9056-435172e2cca1)
+3. Detalhes do carro <br><br> ![image](https://github.com/devCaiquedePaula/Car-Showcase/assets/104093663/62fc8247-3892-4988-9559-d66327ce400f)
 
 ## Acesse o Site
 Você pode acessar o site do projeto já implantado e desfrutar de todas as suas funcionalidades [clicando aqui](link_do_site_deployado).
